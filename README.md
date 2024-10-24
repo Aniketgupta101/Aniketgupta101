@@ -52,11 +52,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Software Development**
 - 🌱 I’m learning **Machine Learning and AI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, JavaScript, Cloud, and DevOps**
-- 📫 How to reach me: [aniketgupta.dev@example.com](mailto:aniketgupta.dev@example.com)
+- 📫 How to reach me: [aniketg266@gmail.com](mailto:aniketg266@gmail.com)
 
 ---
 
