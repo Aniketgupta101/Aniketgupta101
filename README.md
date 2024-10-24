@@ -27,16 +27,17 @@
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
 </div>
 
 ### 🌐 Web Development & Frameworks
 <div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
@@ -62,6 +63,8 @@
 
 ### 🎮 Game Development
 <div align="center">
+    <img src="https://img.shields.io/badge/Swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Animate-FF6F00.svg?style=for-the-badge&logo=adobe-animate&logoColor=white"/>
 </div>
