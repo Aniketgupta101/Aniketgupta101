@@ -1,34 +1,28 @@
-<!-- Header Section with Anime GIF on the Right -->
+<!-- Header Section -->
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: auto; padding: 20px;">
-    <div style="flex: 1; text-align: center;">
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Aniket+Gupta;A+Passionate+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-      </p>
-      <p style="font-size: 16px; margin-top: 15px; color: #333;">
-        🔭 I’m currently working on **Full Stack Web Development**<br>
-        🌱 I’m learning **Machine Learning and AI**<br>
-        👯 I’m looking to collaborate on **Open Source Projects**<br>
-        💬 Ask me about **Python, JavaScript, Cloud, and DevOps**<br>
-        📫 How to reach me: <a href="mailto:aniketg266@gmail.com">aniketg266@gmail.com</a>
-      </p>
-    </div>
-    <div style="flex: 1; text-align: right;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY5ZGVmNjNhZjhlZDFmZmNlMTM1N2U1YjMyNzYwZDBmNzRkMmFkMCZjdD1n/giphy.gif" width="300" height="200"/>
-    </div>
-  </div>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Aniket+Gupta;A+Passionate+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://instagram.com/aniketg_20" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Aniketg_pvt" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aniket-gupta-1ba4b322a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+---
+
+## 💬 About Me
+<p align="center" style="font-size: 16px; color: #333;">
+  🔭 I’m currently working on **Full Stack Web Development**<br>
+  🌱 I’m learning **Machine Learning and AI**<br>
+  👯 I’m looking to collaborate on **Open Source Projects**<br>
+  💬 Ask me about **Python, JavaScript, Cloud, and DevOps**<br>
+  📫 How to reach me: <a href="mailto:aniketg266@gmail.com">aniketg266@gmail.com</a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+<p align="center" style="font-size: 16px; color: #333;">
+  - 🧑‍💻 I love automating tasks using Python<br>
+  - 📈 I’m fascinated by data and how it tells stories<br>
+  - 🎮 Gaming keeps me fresh and sharp
 </p>
 
 ---
@@ -88,14 +82,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta101&theme=radical&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" height="180px"/>
 </p>
-
----
-
-## ⚡ Fun Facts
-
-- 🧑‍💻 I love automating tasks using Python
-- 📈 I’m fascinated by data and how it tells stories
-- 🎮 Gaming keeps me fresh and sharp
 
 ---
 
