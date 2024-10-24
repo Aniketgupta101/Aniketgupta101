@@ -8,22 +8,18 @@
 ---
 
 ## 💬 About Me
-<p align="center" style="font-size: 16px; color: #333;">
-  🔭 I’m currently working on **Full Stack Web Development**<br>
-  🌱 I’m learning **Machine Learning and AI**<br>
-  👯 I’m looking to collaborate on **Open Source Projects**<br>
-  💬 Ask me about **Python, JavaScript, Cloud, and DevOps**<br>
-  📫 How to reach me: <a href="mailto:aniketg266@gmail.com">aniketg266@gmail.com</a>
-</p>
+- 🔭 Currently working on **Full Stack Web Development**
+- 🌱 Learning **Machine Learning and AI**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, JavaScript, Cloud, and DevOps**
+- 📫 Reach me at: [aniketg266@gmail.com](mailto:aniketg266@gmail.com)
 
 ---
 
 ## ⚡ Fun Facts
-<p align="center" style="font-size: 16px; color: #333;">
-  - 🧑‍💻 I love automating tasks using Python<br>
-  - 📈 I’m fascinated by data and how it tells stories<br>
-  - 🎮 Gaming keeps me fresh and sharp
-</p>
+- 🧑‍💻 I love automating tasks using Python
+- 📈 Fascinated by data and how it tells stories
+- 🎮 Gaming keeps me fresh and sharp
 
 ---
 
