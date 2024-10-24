@@ -1,6 +1,6 @@
-<!-- Cool Header with GIF -->
+<!-- Cool Header with Animated GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="280"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="600" height="300"/>
 </p>
 
 <p align="center">
