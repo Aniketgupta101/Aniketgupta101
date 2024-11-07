@@ -9,7 +9,7 @@
 
 ## 💬 About Me
 - 🔭 Currently working as **Software Development**
-- 🌱 Learning **AI and Machine Learning**
+- 🌱 Learning **Machine Learning and AI**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, JavaScript, Cloud, and DevOps**
 - 📫 Reach me at: [aniketg266@gmail.com](mailto:aniketg266@gmail.com)
