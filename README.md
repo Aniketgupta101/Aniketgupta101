@@ -72,12 +72,12 @@
 ---
 
 ## 📊 GitHub Stats & Streak
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aniketgupta101&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Aniket's GitHub Stats" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketgupta101&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
 </p>
-
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta101&theme=radical&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" height="180px"/>
 </p>
