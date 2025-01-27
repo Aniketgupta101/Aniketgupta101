@@ -84,8 +84,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aniketgupta101&icon=0&color=6A5ACD" alt="Visit Counter"/>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
